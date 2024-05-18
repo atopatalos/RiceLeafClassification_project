@@ -15,13 +15,13 @@ Classify Rice leaves.
 1. **Clone the repository**:
 
     ```sh
-    https://github.com/atopatalos/RiceLeafClassification_project.git
+    git clone https://github.com/atopatalos/RiceLeafClassification_project.git
     ```
 
 2. **Navigate to the cloned directory**:
 
     ```sh
-    cd RiceLeafClassification
+    cd RiceLeafClassification_project
     ```
 
 3. **Build your Docker image** (you can change `riceleaf` to any name you prefer for your Docker image):

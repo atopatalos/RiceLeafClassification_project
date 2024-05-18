@@ -15,7 +15,7 @@ Classify Rice leaves.
 1. **Clone the repository**:
 
     ```sh
-    git clone https://github.com/Sudonuma/RiceLeafClassification.git
+    https://github.com/atopatalos/RiceLeafClassification_project.git
     ```
 
 2. **Navigate to the cloned directory**:

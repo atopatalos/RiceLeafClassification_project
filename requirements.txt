@@ -1,0 +1,11 @@
+torchvision
+mlflow
+torch
+matplotlib
+Pillow
+tqdm
+argparse
+pandas
+pytest
+flake8
+isort
